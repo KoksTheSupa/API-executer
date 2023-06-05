@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="planet_earth" model="res.planet">
+            <field name="name">Earth</field>
+            <field name="diameter">12742</field>
+            <field name="rotation_period">24</field>
+            <field name="orbital_period">8766</field>
+            <field name="population">8 000 000 000</field>
+        </record>
+    </data>
+</odoo>
+ 

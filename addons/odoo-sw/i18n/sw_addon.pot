@@ -1,0 +1,106 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sw_addon
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e-20210305\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-04 07:11+0000\n"
+"PO-Revision-Date: 2021-10-04 07:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sw_addon
+#: model:ir.model,name:sw_addon.model_res_partner
+msgid "Contact"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__diameter
+msgid "Diameter, km"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_partner__display_name
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_partner__id
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__id
+msgid "ID"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_partner____last_update
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__name
+msgid "Name"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__orbital_period
+msgid "Orbital period"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_backend_res_partner__planet
+#: model:ir.model.fields,field_description:sw_addon.field_backend_res_partner_contragent__planet
+#: model:ir.model.fields,field_description:sw_addon.field_backend_res_partner_physical__planet
+#: model:ir.model.fields,field_description:sw_addon.field_backend_res_users__planet
+#: model:ir.model.fields,field_description:sw_addon.field_res_partner__planet
+#: model:ir.model.fields,field_description:sw_addon.field_res_users__planet
+#: model_terms:ir.ui.view,arch_db:sw_addon.res_partner_planet_view
+msgid "Planet"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model,name:sw_addon.model_res_planet
+#: model:ir.ui.menu,name:sw_addon.planets_list
+msgid "Planets"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.actions.act_window,name:sw_addon.res_planet_action
+msgid "Planets action"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__rotation_period
+msgid "Rotation period"
+msgstr ""
+
+#. module: sw_addon
+#: model:ir.model.fields,field_description:sw_addon.field_res_planet__population
+msgid "population"
+msgstr ""

@@ -1,0 +1,71 @@
+<odoo>
+  <data>
+
+    <record model="ir.ui.view" id="res_planet_tree">
+      <field name="name">Planets list</field>
+      <field name="model">res.planet</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="diameter"/>
+          <field name="population"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="res_planet_form">
+      <field name="name">Planets form</field>
+      <field name="model">res.planet</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <group>
+              <field name="name"/>
+              <field name="diameter"/>
+              <field name="population"/>
+            </group>
+            <group>
+              <field name="rotation_period"/>
+              <field name="orbital_period"/>
+            </group>
+          </group>
+        </form>
+      </field>
+    </record>
+
+
+    <!-- actions opening views on models -->
+
+    <record model="ir.actions.act_window" id="res_planet_action">
+      <field name="name">Planets action</field>
+      <field name="res_model">res.planet</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+
+    <!-- actions -->
+
+    <menuitem name="Planets" id="planets_list" parent="contacts.menu_localisation"
+              action="res_planet_action"/>
+
+    <!-- Adds field "Planet" to the partner's form -->
+
+    <record id="res_partner_planet_view" model="ir.ui.view">
+      <field name="name">res_partner_planet</field>
+      <field name="model">res.partner</field>
+      <field name="inherit_id" ref="base.view_partner_form"/>
+      <!--field name="priority" eval="25"/-->
+      <field name="arch" type="xml">
+        <xpath expr="//field[@name='country_id']" position="after">
+          <field name="planet"
+                 placeholder="Planet"
+                 lass="o_address_country"
+                 options='{"no_open": True, "no_create": True}' 
+                 attrs="{'readonly': [('type', '=', 'contact'),('parent_id', '!=', False)]}"
+          />
+        </xpath>
+      </field>
+    </record>
+
+  </data>
+</odoo>
