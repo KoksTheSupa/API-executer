@@ -1,0 +1,10 @@
+ODOO:
+  odoo_url: http://localhost:8069
+  username: b@b.b
+  password: admin
+  db: Admin
+  
+URL:
+  PLANET: https://swapi.dev/api/planets
+  PARTNER: https://swapi.dev/api/people
+  IMAGE: https://starwars-visualguide.com/assets/img/characters/1.jpg

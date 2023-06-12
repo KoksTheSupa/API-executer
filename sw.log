@@ -1,0 +1,145 @@
+2023-06-12 19:07:11,686 INFO Args have been received to res.planet: Tatooine id:1
+2023-06-12 19:07:11,747 INFO Args have been received to res.planet: Alderaan id:2
+2023-06-12 19:07:11,813 INFO Args have been received to res.planet: Yavin IV id:3
+2023-06-12 19:07:11,895 INFO Args have been received to res.planet: Hoth id:4
+2023-06-12 19:07:11,984 INFO Args have been received to res.planet: Dagobah id:5
+2023-06-12 19:07:12,072 INFO Args have been received to res.planet: Bespin id:6
+2023-06-12 19:07:12,158 INFO Args have been received to res.planet: Endor id:7
+2023-06-12 19:07:12,244 INFO Args have been received to res.planet: Naboo id:8
+2023-06-12 19:07:12,327 INFO Args have been received to res.planet: Coruscant id:9
+2023-06-12 19:07:12,405 INFO Args have been received to res.planet: Kamino id:10
+2023-06-12 19:07:12,469 INFO Args have been received to res.planet: Geonosis id:11
+2023-06-12 19:07:12,524 INFO Args have been received to res.planet: Utapau id:12
+2023-06-12 19:07:12,580 INFO Args have been received to res.planet: Mustafar id:13
+2023-06-12 19:07:12,655 INFO Args have been received to res.planet: Kashyyyk id:14
+2023-06-12 19:07:12,737 INFO Args have been received to res.planet: Polis Massa id:15
+2023-06-12 19:07:12,790 INFO Args have been received to res.planet: Mygeeto id:16
+2023-06-12 19:07:12,840 INFO Args have been received to res.planet: Felucia id:17
+2023-06-12 19:07:12,888 INFO Args have been received to res.planet: Cato Neimoidia id:18
+2023-06-12 19:07:12,938 INFO Args have been received to res.planet: Saleucami id:19
+2023-06-12 19:07:12,991 INFO Args have been received to res.planet: Stewjon id:20
+2023-06-12 19:07:13,043 INFO Args have been received to res.planet: Eriadu id:21
+2023-06-12 19:07:13,114 INFO Args have been received to res.planet: Corellia id:22
+2023-06-12 19:07:13,199 INFO Args have been received to res.planet: Rodia id:23
+2023-06-12 19:07:13,283 INFO Args have been received to res.planet: Nal Hutta id:24
+2023-06-12 19:07:13,363 INFO Args have been received to res.planet: Dantooine id:25
+2023-06-12 19:07:13,446 INFO Args have been received to res.planet: Bestine IV id:26
+2023-06-12 19:07:13,523 INFO Args have been received to res.planet: Ord Mantell id:27
+2023-06-12 19:07:13,598 INFO Args have been received to res.planet: unknown id:28
+2023-06-12 19:07:13,644 INFO Args have been received to res.planet: Trandosha id:29
+2023-06-12 19:07:13,689 INFO Args have been received to res.planet: Socorro id:30
+2023-06-12 19:07:13,737 INFO Args have been received to res.planet: Mon Cala id:31
+2023-06-12 19:07:13,797 INFO Args have been received to res.planet: Chandrila id:32
+2023-06-12 19:07:13,844 INFO Args have been received to res.planet: Sullust id:33
+2023-06-12 19:07:13,896 INFO Args have been received to res.planet: Toydaria id:34
+2023-06-12 19:07:13,954 INFO Args have been received to res.planet: Malastare id:35
+2023-06-12 19:07:14,005 INFO Args have been received to res.planet: Dathomir id:36
+2023-06-12 19:07:14,061 INFO Args have been received to res.planet: Ryloth id:37
+2023-06-12 19:07:14,116 INFO Args have been received to res.planet: Aleen Minor id:38
+2023-06-12 19:07:14,180 INFO Args have been received to res.planet: Vulpter id:39
+2023-06-12 19:07:14,251 INFO Args have been received to res.planet: Troiken id:40
+2023-06-12 19:07:14,328 INFO Args have been received to res.planet: Tund id:41
+2023-06-12 19:07:14,411 INFO Args have been received to res.planet: Haruun Kal id:42
+2023-06-12 19:07:14,490 INFO Args have been received to res.planet: Cerea id:43
+2023-06-12 19:07:14,569 INFO Args have been received to res.planet: Glee Anselm id:44
+2023-06-12 19:07:14,645 INFO Args have been received to res.planet: Iridonia id:45
+2023-06-12 19:07:14,728 INFO Args have been received to res.planet: Tholoth id:46
+2023-06-12 19:07:14,804 INFO Args have been received to res.planet: Iktotch id:47
+2023-06-12 19:07:14,867 INFO Args have been received to res.planet: Quermia id:48
+2023-06-12 19:07:14,925 INFO Args have been received to res.planet: Dorin id:49
+2023-06-12 19:07:14,975 INFO Args have been received to res.planet: Champala id:50
+2023-06-12 19:07:15,031 INFO Args have been received to res.planet: Mirial id:51
+2023-06-12 19:07:15,093 INFO Args have been received to res.planet: Serenno id:52
+2023-06-12 19:07:15,176 INFO Args have been received to res.planet: Concord Dawn id:53
+2023-06-12 19:07:15,253 INFO Args have been received to res.planet: Zolan id:54
+2023-06-12 19:07:15,330 INFO Args have been received to res.planet: Ojom id:55
+2023-06-12 19:07:15,398 INFO Args have been received to res.planet: Skako id:56
+2023-06-12 19:07:15,486 INFO Args have been received to res.planet: Muunilinst id:57
+2023-06-12 19:07:15,567 INFO Args have been received to res.planet: Shili id:58
+2023-06-12 19:07:15,651 INFO Args have been received to res.planet: Kalee id:59
+2023-06-12 19:07:15,731 INFO Args have been received to res.planet: Umbara id:60
+2023-06-12 19:07:15,888 INFO In res.planet was created odoo id: [1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1272, 1273, 1274, 1275, 1276, 1277, 1278, 1279, 1280, 1281, 1282, 1283, 1284, 1285, 1286, 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1294, 1295, 1296, 1297, 1298, 1299, 1300, 1301, 1302, 1303, 1304, 1305, 1306, 1307, 1308, 1309]
+2023-06-12 19:07:42,757 WARNING Oops, cant get image https://starwars-visualguide.com/assets/img/characters/17.jpg, for correct display skip this url
+2023-06-12 19:08:03,690 INFO Args have been received to res.partner: Luke Skywalker id:1
+2023-06-12 19:08:08,037 INFO Args have been received to res.partner: C-3PO id:2
+2023-06-12 19:08:09,300 INFO Args have been received to res.partner: R2-D2 id:3
+2023-06-12 19:08:10,437 INFO Args have been received to res.partner: Darth Vader id:4
+2023-06-12 19:08:11,714 INFO Args have been received to res.partner: Leia Organa id:5
+2023-06-12 19:08:12,945 INFO Args have been received to res.partner: Owen Lars id:6
+2023-06-12 19:08:14,220 INFO Args have been received to res.partner: Beru Whitesun lars id:7
+2023-06-12 19:08:16,431 INFO Args have been received to res.partner: R5-D4 id:8
+2023-06-12 19:08:17,738 INFO Args have been received to res.partner: Biggs Darklighter id:9
+2023-06-12 19:08:18,501 INFO Args have been received to res.partner: Obi-Wan Kenobi id:10
+2023-06-12 19:08:19,730 INFO Args have been received to res.partner: Anakin Skywalker id:11
+2023-06-12 19:08:20,662 INFO Args have been received to res.partner: Wilhuff Tarkin id:12
+2023-06-12 19:08:24,691 INFO Args have been received to res.partner: Chewbacca id:13
+2023-06-12 19:08:25,661 INFO Args have been received to res.partner: Han Solo id:14
+2023-06-12 19:08:26,540 INFO Args have been received to res.partner: Greedo id:15
+2023-06-12 19:08:27,629 INFO Args have been received to res.partner: Jabba Desilijic Tiure id:16
+2023-06-12 19:08:28,552 INFO Args have been received to res.partner: Wedge Antilles id:17
+2023-06-12 19:08:29,512 INFO Args have been received to res.partner: Jek Tono Porkins id:18
+2023-06-12 19:08:31,735 INFO Args have been received to res.partner: Yoda id:19
+2023-06-12 19:08:32,922 INFO Args have been received to res.partner: Palpatine id:20
+2023-06-12 19:08:34,144 INFO Args have been received to res.partner: Boba Fett id:21
+2023-06-12 19:08:35,118 INFO Args have been received to res.partner: IG-88 id:22
+2023-06-12 19:08:36,118 INFO Args have been received to res.partner: Bossk id:23
+2023-06-12 19:08:37,117 INFO Args have been received to res.partner: Lando Calrissian id:24
+2023-06-12 19:08:38,168 INFO Args have been received to res.partner: Lobot id:25
+2023-06-12 19:08:39,087 INFO Args have been received to res.partner: Ackbar id:26
+2023-06-12 19:08:40,105 INFO Args have been received to res.partner: Mon Mothma id:27
+2023-06-12 19:08:44,209 INFO Args have been received to res.partner: Arvel Crynyd id:28
+2023-06-12 19:08:45,214 INFO Args have been received to res.partner: Wicket Systri Warrick id:29
+2023-06-12 19:08:46,293 INFO Args have been received to res.partner: Nien Nunb id:30
+2023-06-12 19:08:47,531 INFO Args have been received to res.partner: Qui-Gon Jinn id:31
+2023-06-12 19:08:48,522 INFO Args have been received to res.partner: Nute Gunray id:32
+2023-06-12 19:08:50,706 INFO Args have been received to res.partner: Finis Valorum id:33
+2023-06-12 19:08:51,774 INFO Args have been received to res.partner: Padmé Amidala id:34
+2023-06-12 19:08:52,967 INFO Args have been received to res.partner: Jar Jar Binks id:35
+2023-06-12 19:08:55,372 INFO Args have been received to res.partner: Roos Tarpals id:36
+2023-06-12 19:09:11,775 INFO Args have been received to res.partner: Rugor Nass id:37
+2023-06-12 19:09:12,827 INFO Args have been received to res.partner: Ric Olié id:38
+2023-06-12 19:09:13,560 INFO Args have been received to res.partner: Watto id:39
+2023-06-12 19:09:14,249 INFO Args have been received to res.partner: Sebulba id:40
+2023-06-12 19:09:15,074 INFO Args have been received to res.partner: Quarsh Panaka id:41
+2023-06-12 19:09:15,895 INFO Args have been received to res.partner: Shmi Skywalker id:42
+2023-06-12 19:09:16,539 INFO Args have been received to res.partner: Darth Maul id:43
+2023-06-12 19:09:17,286 INFO Args have been received to res.partner: Bib Fortuna id:44
+2023-06-12 19:09:18,260 INFO Args have been received to res.partner: Ayla Secura id:45
+2023-06-12 19:09:18,881 INFO Args have been received to res.partner: Ratts Tyerel id:46
+2023-06-12 19:09:19,697 INFO Args have been received to res.partner: Dud Bolt id:47
+2023-06-12 19:09:20,476 INFO Args have been received to res.partner: Gasgano id:48
+2023-06-12 19:09:21,305 INFO Args have been received to res.partner: Ben Quadinaros id:49
+2023-06-12 19:09:21,987 INFO Args have been received to res.partner: Mace Windu id:50
+2023-06-12 19:09:22,561 INFO Args have been received to res.partner: Ki-Adi-Mundi id:51
+2023-06-12 19:09:22,964 INFO Args have been received to res.partner: Kit Fisto id:52
+2023-06-12 19:09:23,523 INFO Args have been received to res.partner: Eeth Koth id:53
+2023-06-12 19:09:24,072 INFO Args have been received to res.partner: Adi Gallia id:54
+2023-06-12 19:09:24,590 INFO Args have been received to res.partner: Saesee Tiin id:55
+2023-06-12 19:09:25,075 INFO Args have been received to res.partner: Yarael Poof id:56
+2023-06-12 19:09:25,851 INFO Args have been received to res.partner: Plo Koon id:57
+2023-06-12 19:09:26,358 INFO Args have been received to res.partner: Mas Amedda id:58
+2023-06-12 19:09:27,192 INFO Args have been received to res.partner: Gregar Typho id:59
+2023-06-12 19:09:28,020 INFO Args have been received to res.partner: Cordé id:60
+2023-06-12 19:09:29,011 INFO Args have been received to res.partner: Cliegg Lars id:61
+2023-06-12 19:09:29,739 INFO Args have been received to res.partner: Poggle the Lesser id:62
+2023-06-12 19:09:30,498 INFO Args have been received to res.partner: Luminara Unduli id:63
+2023-06-12 19:09:31,251 INFO Args have been received to res.partner: Barriss Offee id:64
+2023-06-12 19:09:32,064 INFO Args have been received to res.partner: Dormé id:65
+2023-06-12 19:09:32,759 INFO Args have been received to res.partner: Dooku id:66
+2023-06-12 19:09:33,531 INFO Args have been received to res.partner: Bail Prestor Organa id:67
+2023-06-12 19:09:34,259 INFO Args have been received to res.partner: Jango Fett id:68
+2023-06-12 19:09:35,057 INFO Args have been received to res.partner: Zam Wesell id:69
+2023-06-12 19:09:35,965 INFO Args have been received to res.partner: Dexter Jettster id:70
+2023-06-12 19:09:36,646 INFO Args have been received to res.partner: Lama Su id:71
+2023-06-12 19:09:37,361 INFO Args have been received to res.partner: Taun We id:72
+2023-06-12 19:09:38,120 INFO Args have been received to res.partner: Jocasta Nu id:73
+2023-06-12 19:09:38,990 INFO Args have been received to res.partner: R4-P17 id:74
+2023-06-12 19:09:39,727 INFO Args have been received to res.partner: Wat Tambor id:75
+2023-06-12 19:09:40,468 INFO Args have been received to res.partner: San Hill id:76
+2023-06-12 19:09:41,214 INFO Args have been received to res.partner: Shaak Ti id:77
+2023-06-12 19:09:41,994 INFO Args have been received to res.partner: Grievous id:78
+2023-06-12 19:09:42,830 INFO Args have been received to res.partner: Tarfful id:79
+2023-06-12 19:09:43,572 INFO Args have been received to res.partner: Raymus Antilles id:80
+2023-06-12 19:09:44,273 INFO Args have been received to res.partner: Sly Moore id:81
+2023-06-12 19:09:45,158 INFO Args have been received to res.partner: Tion Medon id:82
+2023-06-12 19:09:54,105 INFO In res.partner was created odoo id: [2161, 2162, 2163, 2164, 2165, 2166, 2167, 2168, 2169, 2170, 2171, 2172, 2173, 2174, 2175, 2176, 2177, 2178, 2179, 2180, 2181, 2182, 2183, 2184, 2185, 2186, 2187, 2188, 2189, 2190, 2191, 2192, 2193, 2194, 2195, 2196, 2197, 2198, 2199, 2200, 2201, 2202, 2203, 2204, 2205, 2206, 2207, 2208, 2209, 2210, 2211, 2212, 2213, 2214, 2215, 2216, 2217, 2218, 2219, 2220, 2221, 2222, 2223, 2224, 2225, 2226, 2227, 2228, 2229, 2230, 2231, 2232, 2233, 2234, 2235, 2236, 2237, 2238, 2239, 2240, 2241, 2242]
